@@ -1,0 +1,264 @@
+.meet-cupid {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1338px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+
+.overlap-group8-2 {
+  height: 83px;
+  margin-left: 2.0px;
+  margin-top: 35px;
+  position: relative;
+  width: 416px;
+}
+
+.profile-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 83px;
+  position: absolute;
+  top: 0;
+  width: 416px;
+}
+
+.profile-picture-7 {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  margin-right: 2.0px;
+  width: 40px;
+}
+
+.cupid-ai-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  margin-top: 8px;
+  min-height: 27px;
+  min-width: 78px;
+}
+
+.divider-3 {
+  height: 1px;
+  margin-right: 2.0px;
+  margin-top: 7px;
+  object-fit: cover;
+  width: 414px;
+}
+
+.icon_back-1 {
+  height: 14px;
+  left: 40px;
+  position: absolute;
+  top: 13px;
+  width: 21px;
+}
+
+.x2-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 57.0px;
+  margin-top: 20px;
+  min-width: 293px;
+}
+
+.overlap-group2-4 {
+  background-color: var(--wisp-pink-2);
+  border-radius: 18px;
+  height: 170px;
+  position: relative;
+  width: 289px;
+}
+
+.text-8 {
+  left: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 117px;
+  width: 37px;
+}
+
+.unvaxxed-armenian {
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 12px;
+  width: 256px;
+}
+
+.x7-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 78.0px;
+  margin-top: 20px;
+  min-width: 256px;
+}
+
+.overlap-group6-1 {
+  align-items: flex-end;
+  background-color: var(--zircon);
+  border-radius: 18px;
+  display: flex;
+  height: 102px;
+  justify-content: flex-end;
+  min-width: 254px;
+  padding: 0 9px;
+}
+
+.we-found-a-match-3-m-1 {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 96px;
+  width: 227px;
+}
+
+.x4-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-left: 62.0px;
+  margin-top: 14px;
+  min-height: 102px;
+  width: 288px;
+}
+
+.overlap-group1-7 {
+  align-items: center;
+  background-color: var(--wisp-pink);
+  border-radius: 18px;
+  display: flex;
+  height: 78px;
+  min-width: 284px;
+  padding: 0 22px;
+}
+
+.unvaxxed-remove-vaxxed-from-match-pool {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 42px;
+  width: 240px;
+}
+
+.text-7 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 5px;
+  min-height: 18px;
+}
+
+.group-3-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-right: 44.0px;
+  margin-top: 6px;
+  min-height: 164px;
+  width: 290px;
+}
+
+.overlap-group7-3 {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  gap: 59px;
+  height: 138px;
+  margin-right: 2px;
+  min-width: 288px;
+}
+
+.overlap-group1-8 {
+  align-items: center;
+  background-size: 100% 100%;
+  display: flex;
+  gap: 72px;
+  height: 74px;
+  justify-content: flex-end;
+  min-width: 137px;
+  padding: 7px 3px;
+  position: relative;
+}
+
+.profile-picture-8 {
+  align-self: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  width: 25px;
+}
+
+.button_view {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-bottom: 8px;
+  min-width: 74px;
+}
+
+.overlap-group-14 {
+  align-items: flex-end;
+  background-color: var(--blue-jeans);
+  border-radius: 73px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  min-width: 72px;
+  padding: 10px 21px;
+}
+
+.view-2 {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 18px;
+  min-width: 29px;
+}
+
+.text-9 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2px;
+  min-height: 18px;
+  min-width: 34px;
+  text-align: right;
+}
+
+.overlap-group9-2 {
+  align-items: flex-start;
+  background-color: var(--zircon);
+  border-radius: 18px;
+  display: flex;
+  height: 102px;
+  justify-content: flex-end;
+  margin-right: 80.0px;
+  margin-top: 20px;
+  min-width: 254px;
+  padding: 14px 9px;
+}
+
+.great-were-try-and-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 72px;
+  width: 227px;
+}
+
+.tool-bar-1 {
+  height: 1px;
+  margin-left: 1.61px;
+  margin-top: 39px;
+  width: 288px;
+}
+

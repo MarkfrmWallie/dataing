@@ -1,0 +1,41 @@
+.profile-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 2.0px;
+  margin-top: 20px;
+  min-height: 83px;
+  width: 416px;
+}
+
+.profile-picture-9 {
+  background-image: url(/static/img/profile-5@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  margin-right: 2.0px;
+  width: 40px;
+}
+
+.cupid-ai-x-samantha {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 3.0px;
+  margin-top: 8px;
+  min-height: 27px;
+  min-width: 193px;
+}
+
+.divider-4 {
+  height: 1px;
+  margin-right: 2.0px;
+  margin-top: 7px;
+  object-fit: cover;
+  width: 414px;
+}
+
+.profile-6.profile-7,
+.profile-6.profile-8 {
+  margin-top: unset;
+}
+

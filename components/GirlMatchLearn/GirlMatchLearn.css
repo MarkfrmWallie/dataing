@@ -1,0 +1,50 @@
+.girl-match-learn {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 896px;
+  padding: 48px 38px;
+  position: relative;
+  width: 414px;
+}
+
+.we-feel-good-about-this-one {
+  align-self: center;
+  letter-spacing: 0.80px;
+  line-height: normal;
+  margin-top: 68px;
+  min-height: 96px;
+  min-width: 272px;
+  text-align: center;
+}
+
+.button-2 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-top: 62px;
+  min-width: 336px;
+}
+
+.overlap-group3-3 {
+  align-items: center;
+  background-color: var(--hot-pink);
+  border-radius: 24px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  display: flex;
+  height: 80px;
+  justify-content: flex-end;
+  min-width: 334px;
+  padding: 0 138px;
+}
+
+.why {
+  height: 30px;
+  letter-spacing: 0.50px;
+  line-height: normal;
+  min-width: 57px;
+  text-align: center;
+}
+

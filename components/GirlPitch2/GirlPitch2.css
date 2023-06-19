@@ -1,0 +1,142 @@
+.girl-pitch-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 896px;
+  padding: 40px 24px;
+  width: 414px;
+}
+
+.over-container {
+  height: 190px;
+  margin-right: 20px;
+  margin-top: 27px;
+  position: relative;
+  width: 320px;
+}
+
+.overwatch-2-mercy-sigma-bee-skins-1-1 {
+  height: 179px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 320px;
+}
+
+.over-2 {
+  height: 80px;
+  left: 52px;
+  position: absolute;
+  top: 110px;
+  width: 81px;
+}
+
+.over-1 {
+  height: 80px;
+  left: 192px;
+  position: absolute;
+  top: 110px;
+  width: 81px;
+}
+
+.map-1 {
+  height: 253px;
+  margin-right: 20px;
+  margin-top: 15px;
+  width: 320px;
+}
+
+.you-both-went-to-the {
+  letter-spacing: 0.40px;
+  line-height: normal;
+  margin-top: 32px;
+  min-height: 120px;
+  text-align: center;
+  width: 361px;
+}
+
+.button-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin-right: 3px;
+  margin-top: 56px;
+  min-height: 123px;
+  width: 344px;
+}
+
+.overlap-group-container-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  min-width: 344px;
+}
+
+.overlap-group2-7 {
+  align-items: flex-start;
+  background-color: var(--brink-pink);
+  border-radius: 18px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  min-width: 165px;
+  padding: 15px 48px;
+}
+
+.hard-no-1 {
+  height: 24px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-width: 68px;
+  text-align: center;
+}
+
+.overlap-group1-10 {
+  align-items: flex-start;
+  background-color: var(--mountain-meadow);
+  border-radius: 18px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  display: flex;
+  height: 55px;
+  min-width: 165px;
+  padding: 15px 40px;
+}
+
+.set-me-up-1 {
+  height: 24px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-width: 85px;
+  text-align: center;
+}
+
+.group-1900 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 346px;
+}
+
+.overlap-group-17 {
+  align-items: flex-start;
+  background-color: var(--blumine-2);
+  border-radius: 18px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  display: flex;
+  height: 55px;
+  min-width: 344px;
+  padding: 15px 126px;
+}
+
+.aaaand-1 {
+  height: 24px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-width: 76px;
+  text-align: center;
+}
+

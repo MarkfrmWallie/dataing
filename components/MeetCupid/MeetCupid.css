@@ -1,0 +1,155 @@
+.meet-cupid-2 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1264px;
+  overflow: hidden;
+  position: relative;
+  width: 414px;
+}
+
+.overlap-group8 {
+  height: 83px;
+  margin-left: 2.0px;
+  margin-top: 35px;
+  position: relative;
+  width: 416px;
+}
+
+.profile {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 83px;
+  position: absolute;
+  top: 0;
+  width: 416px;
+}
+
+.profile-picture {
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  margin-right: 2.0px;
+  width: 40px;
+}
+
+.cupid-ai {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 2.0px;
+  margin-top: 8px;
+  min-height: 27px;
+  min-width: 78px;
+}
+
+.divider {
+  height: 1px;
+  margin-right: 2.0px;
+  margin-top: 7px;
+  object-fit: cover;
+  width: 414px;
+}
+
+.icon_back {
+  height: 14px;
+  left: 40px;
+  position: absolute;
+  top: 13px;
+  width: 21px;
+}
+
+.x2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin-left: 57.0px;
+  margin-top: 20px;
+  min-height: 190px;
+  width: 293px;
+}
+
+.overlap-group1 {
+  align-items: center;
+  background-color: var(--wisp-pink-2);
+  border-radius: 18px;
+  display: flex;
+  height: 170px;
+  justify-content: flex-end;
+  min-width: 289px;
+  padding: 0 10.3px;
+}
+
+.armenian-25-35-rav {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 126px;
+  width: 256px;
+}
+
+.text-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 15px;
+  min-height: 17px;
+  width: 37px;
+}
+
+.x7 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 44.0px;
+  margin-top: 22px;
+  min-width: 290px;
+}
+
+.overlap-group5 {
+  align-items: flex-end;
+  background-color: var(--zircon);
+  border-radius: 18px;
+  display: flex;
+  height: 114px;
+  min-width: 288px;
+  padding: 0 18px;
+}
+
+.we-found-a-match-3-m {
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 107px;
+  width: 246px;
+}
+
+.overlap-group7 {
+  align-items: flex-start;
+  background-color: var(--zircon);
+  border-radius: 18px;
+  display: flex;
+  height: 102px;
+  justify-content: flex-end;
+  margin-right: 80.0px;
+  margin-top: 22px;
+  min-width: 254px;
+  padding: 14px 9px;
+}
+
+.great-were-try-and {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-height: 72px;
+  width: 227px;
+}
+
+.tool-bar {
+  align-self: flex-start;
+  height: 30px;
+  margin-left: -247px;
+  margin-top: 3303px;
+  width: 288px;
+}
+

@@ -1,0 +1,141 @@
+.girl-pitch {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 896px;
+  padding: 40px 27px;
+  width: 414px;
+}
+
+.img_-container {
+  height: 417px;
+  margin-left: 16.96px;
+  margin-top: 51px;
+  position: relative;
+  width: 301px;
+}
+
+.img_2880 {
+  height: 322px;
+  left: 0;
+  position: absolute;
+  top: 55px;
+  width: 300px;
+}
+
+.img_2879 {
+  height: 80px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 301px;
+}
+
+.img_2881 {
+  height: 80px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 337px;
+  width: 301px;
+}
+
+.she-likes-psychedeli {
+  letter-spacing: 0.40px;
+  line-height: normal;
+  margin-left: 16.0px;
+  margin-top: 55px;
+  min-height: 72px;
+  text-align: center;
+  width: 278px;
+}
+
+.button {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin-top: 98px;
+  min-height: 123px;
+  width: 344px;
+}
+
+.overlap-group-container-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  min-width: 344px;
+}
+
+.overlap-group1-3 {
+  align-items: flex-start;
+  background-color: var(--brink-pink);
+  border-radius: 18px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  min-width: 165px;
+  padding: 15px 48px;
+}
+
+.hard-no {
+  height: 24px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-width: 68px;
+  text-align: center;
+}
+
+.overlap-group2-1 {
+  align-items: flex-start;
+  background-color: var(--mountain-meadow);
+  border-radius: 18px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  display: flex;
+  height: 55px;
+  min-width: 165px;
+  padding: 15px 40px;
+}
+
+.set-me-up {
+  height: 24px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-width: 85px;
+  text-align: center;
+}
+
+.overlap-group-11 {
+  border-radius: 18px;
+  height: 55px;
+  position: relative;
+  width: 344px;
+}
+
+.bg {
+  background-color: var(--blumine-2);
+  border-radius: 18px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  cursor: pointer;
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 344px;
+}
+
+.aaaand {
+  height: 24px;
+  left: 126px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 15px;
+}
+

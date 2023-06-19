@@ -1,0 +1,22 @@
+.scroll,
+.scroll-1,
+.scroll-2 {
+  align-items: flex-start;
+  background-color: var(--cinderella);
+  border-radius: 16px;
+  display: flex;
+  height: 49px;
+  margin-right: 8px;
+  margin-top: 73px;
+  min-width: 4px;
+}
+
+.x1-2,
+.x1-3,
+.x1-4 {
+  background-color: var(--white);
+  border-radius: 16px;
+  height: 16px;
+  width: 4px;
+}
+

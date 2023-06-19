@@ -1,0 +1,154 @@
+.guy-pitch-2 {
+  align-items: center;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 896px;
+  padding: 33px 0;
+  width: 414px;
+}
+
+.overlap-group4-7 {
+  height: 533px;
+  margin-right: 1.0px;
+  margin-top: 39px;
+  position: relative;
+  width: 361px;
+}
+
+.overlap-group3-9 {
+  height: 533px;
+  left: -1px;
+  position: absolute;
+  top: 0;
+  width: 363px;
+}
+
+.mask {
+  background-color: #fe69b426;
+  border-radius: 24px;
+  height: 456px;
+  left: 0;
+  position: absolute;
+  top: 43px;
+  width: 363px;
+}
+
+.img_e5-bc852-bcd67-1-1 {
+  height: 116px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 417px;
+  width: 300px;
+}
+
+.img_bc8-cc7511-abb-1-1 {
+  height: 120px;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 340px;
+}
+
+.img_bcc2-f5-edad9-f-1-1 {
+  height: 280px;
+  left: 74px;
+  position: absolute;
+  top: 127px;
+  width: 217px;
+}
+
+.hes-had-some-pretty {
+  letter-spacing: 0.40px;
+  line-height: normal;
+  margin-left: 1.0px;
+  margin-top: 28px;
+  min-height: 56px;
+  text-align: center;
+  width: 361px;
+}
+
+.button-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  margin-top: 51px;
+  min-height: 123px;
+  width: 344px;
+}
+
+.overlap-group-container-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 14px;
+  min-width: 344px;
+}
+
+.overlap-group2-14 {
+  align-items: flex-start;
+  background-color: var(--brink-pink);
+  border-radius: 18px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  display: flex;
+  height: 55px;
+  justify-content: flex-end;
+  min-width: 165px;
+  padding: 15px 48px;
+}
+
+.hard-no-3 {
+  height: 24px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-width: 68px;
+  text-align: center;
+}
+
+.overlap-group1-22 {
+  align-items: flex-start;
+  background-color: var(--mountain-meadow);
+  border-radius: 18px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  display: flex;
+  height: 55px;
+  min-width: 165px;
+  padding: 15px 40px;
+}
+
+.set-me-up-3 {
+  height: 24px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-width: 85px;
+  text-align: center;
+}
+
+.group-1904 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  min-width: 346px;
+}
+
+.overlap-group-28 {
+  align-items: flex-start;
+  background-color: var(--blumine-2);
+  border-radius: 18px;
+  box-shadow: 0px 25px 65px -10px #fc77a066;
+  display: flex;
+  height: 55px;
+  min-width: 344px;
+  padding: 15px 126px;
+}
+
+.aaaand-3 {
+  height: 24px;
+  letter-spacing: 0.40px;
+  line-height: normal;
+  min-width: 76px;
+  text-align: center;
+}
+
